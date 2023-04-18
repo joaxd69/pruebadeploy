@@ -1,0 +1,26 @@
+.cards {
+    background-color: rgb(83, 77, 82) ;
+    border: 1px solid #b02121;
+    border-radius: 90px;
+    box-shadow: 0 2px 5px rgba(93, 245, 23, 0.2);
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    display: inline-block;
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }

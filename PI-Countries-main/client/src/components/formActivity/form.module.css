@@ -1,0 +1,93 @@
+.form {
+    text-align: center; 
+}
+
+label {
+    text-align: center; 
+    color: rgb(206, 88, 165);
+    width: 100px;   
+    font-family: fantasy;
+}
+
+.descriptionfield {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+   
+}
+
+.tittle {
+    color:rgb(230, 77, 194);
+    font-size:2rem ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: fantasy;
+}
+
+.container{
+    padding: 2cm;
+}
+
+.back{
+   padding: 20px;
+   border-radius: 30px;
+   background-color: rgb(255, 0, 208);
+   font-family: fantasy;
+}
+
+.options select {
+ background: linear-gradient(45deg, rgb(192, 80, 186), rgb(73, 39, 222), rgb(200, 143, 143));
+  padding: 7px;
+  border: none;
+  border-radius: 50px;
+  font-size:medium;
+  font-weight: 700;
+  color:rgb(234, 230, 241);
+}
+
+.options option {
+    color:rgb(248, 245, 245);
+    background-color: #9e5994;
+    font-weight: 700;
+}
+
+.description.label{
+    border-color: rgb(128, 226, 43);
+}
+
+.Activity.name {
+    padding: 10px;
+    border-color: rgb(37, 212, 84);
+    border-radius: 10px;
+}
+
+.buttonx{
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgb(235, 37, 146);
+}
+
+.id{
+    font-family: monospace;
+    color:white;
+}
+
+.form span{
+  font-family: unset;
+  color: orangered;
+}
+
+.textarea{
+    width: 600px;
+    height: 150px;
+    border-color: rgb(205, 68, 196);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.activity{
+    padding: 10px;
+    border-color: rgb(205, 68, 196);
+    border-radius: 10px; 
+}

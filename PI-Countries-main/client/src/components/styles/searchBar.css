@@ -1,0 +1,23 @@
+
+.search {
+    display: flex;
+    justify-content: right;
+    width: 95%;
+    
+}
+
+.search input {
+    padding: 10px;
+    border-color: rgb(37, 212, 84);
+    border-radius: 10px;
+}
+
+.search button {
+    border-color: rgb(15, 203, 103);
+    border-radius: 10px;
+}
+
+.search input:focus{
+    outline-color: rgb(181, 14, 19);
+}
+
